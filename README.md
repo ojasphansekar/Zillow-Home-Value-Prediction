@@ -38,3 +38,5 @@ http://xgboost.readthedocs.io/en/latest/build.html
 
 Licensed under the [MIT License](LICENSE)
 
+**This MIT copyright license is only for the Linear Regression using Python**
+
