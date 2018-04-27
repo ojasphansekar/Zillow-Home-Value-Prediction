@@ -27,5 +27,5 @@ For someone who wants to run this notebook you need to install the following lib
 Guidelines to install xgboost are posted in the following url:
 http://xgboost.readthedocs.io/en/latest/build.html
 
-## License & copyright
+Licensed under the [MIT License](LICENSE)
 
