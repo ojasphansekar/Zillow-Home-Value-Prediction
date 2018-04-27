@@ -1,6 +1,8 @@
 # Zillow-Home-Value-Prediction
 Advance Data Sciences and Architecture
 
+**Version 1.0.0**
+
 Pre-requisities to run these python notebooks:
 use the following syntax in Anaconda Prompt/ Command Prompt on your systems to import python libraries: 
 pip install <library name>
@@ -24,4 +26,6 @@ For someone who wants to run this notebook you need to install the following lib
 
 Guidelines to install xgboost are posted in the following url:
 http://xgboost.readthedocs.io/en/latest/build.html
+
+## License & copyright
 
