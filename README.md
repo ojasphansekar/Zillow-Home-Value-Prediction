@@ -7,7 +7,7 @@ Zillow is the leading real estate and rental marketplace dedicated to empowering
 
 The Main objective of this research project is to use different algorithms to make predictions about the future sale prices of homes, to reduce the error margin and increase the accuracy of Zestimate to get an exact valuation of homes.
 
-Installation
+**Installation**
 You can find the installation documentation for the Jupyter platform, on ReadTheDocs. The documentation for advanced usage of Jupyter notebook can be found here.
 
 For a local installation, make sure you have pip installed and run:
